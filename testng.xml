@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.Tutorialsninja.qa.TestCases.SearchProductTest"/>
+      <class name="com.Tutorialsninja.qa.TestCases.AddToCartTest"/>
+      <class name="com.Tutorialsninja.qa.TestCases.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
